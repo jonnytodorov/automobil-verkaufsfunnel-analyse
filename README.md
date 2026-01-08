@@ -45,7 +45,7 @@ Das Dashboard besteht aus fünf Seiten, die verschiedene Aspekte des Verkaufsfun
 <b>5. Advanced analytics:</b> Statistische Auswertungen zu Attributionssensitivität, linearer Regression (R²), Ausreißern (Z-Scores) und einem Zwei-Stichproben-T-Test für gewerbliche vs. private Kunden.
 
 ---
-### Zentrele Erkentnisse
+## Zentrale Erkentnisse
 
 * Verkäufe erfolgen meist nicht direkt nach Lead-Erstellung. Trotz sinkendem Lead-Volumen finden viele Käufe erst in späteren Monaten statt, was erklärt, warum kurze Attributionsfenster Verkäufe unterschätzen. Die Lead-zu-Sale-Konversionsraten sind über Provinzen hinweg stabil, was auf einen konsistenten Verkaufsfunnel hinweist.
 

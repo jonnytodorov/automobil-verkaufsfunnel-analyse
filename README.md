@@ -99,6 +99,14 @@ Das Dashboard besteht aus fünf Seiten, die verschiedene Aspekte des Verkaufsfun
 </p>
 
 ---
+
 <p align="center">
-  <em>Automotive Sales Funnel & Campaign Anaytics Dashboard</em><br>
-<strong>Jonathan Todorov,
+<strong> 🇬🇧 English Version available:</strong>
+   <a 
+href="https://github.com/jonnytodorov/automotive-sales-funnel-analytics">Click here</a>
+</p>
+
+---
+<p align="center">
+  <em>Automobil Verkaufsfunnel Analyse Dashboard</em><br>
+<strong>Jonathan Todorov, MA</strong> Business Analytics Portfolio 2026</p>

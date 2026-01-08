@@ -4,7 +4,7 @@ Analyse der Marketingkampagnen entlang des gesamten Verkaufsfunnels in der Autom
 ### Dashboard-Einführung
 Kurzes Video zur Erklärung der Dashboard-Struktur, wichtiger Kennzahlen und Erkenntnisse
 
-<i>Das Walkthrough-Video ist auf Englisch verfügbar, mit optionalen deutsche Untertiteln.</i>
+<i>Das Walkthrough-Video ist auf Englisch verfügbar, mit optionalen deutsche Untertiteln</i>
 
 [Auf Loom anschauen](https://www.loom.com/share/8e0274750cb64996bb33c546a800fc14)
 

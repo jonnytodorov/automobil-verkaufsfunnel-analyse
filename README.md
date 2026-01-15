@@ -1,5 +1,5 @@
 # Automobil-Verkaufsfunnel und Kampagnenanalyse
-Analyse der Marketingkampagnen entlang des gesamten Verkaufsfunnels in der Automobilbranche – vom Lead bis zum Kauf. Das fünfseitige Dashboard wurde mit SQL und Power BI erstellt und zeigt Attributionssensitivität, Conversionsverhalten sowie finanzielle Kennzahlen.
+Analyse der Marketingkampagnen entlang des gesamten Verkaufsfunnels in der Automobilbranche – vom Lead bis zum Kauf. Das Dashboard wurde mit SQL und Power BI erstellt und zeigt Attributionssensitivität, Conversionsverhalten sowie finanzielle Kennzahlen.
 
 ### Dashboard-Einführung
 Kurzes Video zur Erklärung der Dashboard-Struktur, wichtiger Kennzahlen und Erkenntnisse

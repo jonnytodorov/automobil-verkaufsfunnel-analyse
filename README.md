@@ -6,7 +6,7 @@ Kurzes Video zur Erklärung der Dashboard-Struktur, wichtiger Kennzahlen und Erk
 
 <i>Das Walkthrough-Video ist auf Englisch verfügbar, mit optionalen deutsche Untertiteln</i>
 
-[Auf Loom anschauen](https://www.loom.com/share/8e0274750cb64996bb33c546a800fc14)
+[Auf Loom anschauen](https://www.loom.com/share/0f356454aff847d1bdf22060c075af05)
 
 ---
 
